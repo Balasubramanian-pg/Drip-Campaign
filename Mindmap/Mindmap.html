@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>30-Day Job Switch Action Plan Mind Map</title>
+    <link rel="stylesheet" href="mindmap.css">
+</head>
+<body>
+    <div class="mindmap">
+        <div class="node main-node">30-Day Job Switch Action Plan</div>
+        <div class="branch">
+            <div class="node" onclick="toggleLeaves(this)">Days 1-5: Self-Assessment, Preparation & Market Research</div>
+            <div class="leaf">Day 1: Define Your Career Goals and Priorities</div>
+            <div class="leaf">Day 2: Update Your Resume & LinkedIn Profile</div>
+            <div class="leaf">Day 3: Identify Target Industries & Companies</div>
+            <div class="leaf">Day 4: Deep-Dive Company Research</div>
+            <div class="leaf">Day 5: Map the Hiring Teams and Key Contacts</div>
+        </div>
+        <div class="branch">
+            <div class="node" onclick="toggleLeaves(this)">Days 6-10: Networking and Outreach</div>
+            <div class="leaf">Day 6: Join Professional Groups and Forums</div>
+            <div class="leaf">Day 7: Plan Your Outreach Strategy</div>
+            <div class="leaf">Day 8: Start Your Outreach</div>
+            <div class="leaf">Day 9: Follow-Up and Engage</div>
+            <div class="leaf">Day 10: Leverage Your Existing Network</div>
+        </div>
+        <div class="branch">
+            <div class="node" onclick="toggleLeaves(this)">Days 11-15: Application Materials and Job Applications</div>
+            <div class="leaf">Day 11: Tailor Your Cover Letter & Resume Templates</div>
+            <div class="leaf">Day 12: Apply to Jobs on Naukri & Glassdoor</div>
+            <div class="leaf">Day 13: Leverage Company Careers Pages</div>
+            <div class="leaf">Day 14: Continue Outreach & Networking</div>
+            <div class="leaf">Day 15: Optimize and Refresh Online Profiles</div>
+        </div>
+        <div class="branch">
+            <div class="node" onclick="toggleLeaves(this)">Days 16-20: Deepening Engagement & Targeted Outreach</div>
+            <div class="leaf">Day 16: Informational Interviews</div>
+            <div class="leaf">Day 17: Analyze Feedback and Adjust Strategy</div>
+            <div class="leaf">Day 18: Explore Additional Job Boards & Company Alerts</div>
+            <div class="leaf">Day 19: Focus on Skill Enhancement</div>
+            <div class="leaf">Day 20: Broaden Your Networking Efforts</div>
+        </div>
+        <div class="branch">
+            <div class="node" onclick="toggleLeaves(this)">Days 21-25: Intensify Application Efforts & Follow-Ups</div>
+            <div class="leaf">Day 21: Refine Your Target List & Prioritize</div>
+            <div class="leaf">Day 22: Bulk Outreach Day</div>
+            <div class="leaf">Day 23: Follow-Up on Pending Applications</div>
+            <div class="leaf">Day 24: Continue Skill Development & Content Sharing</div>
+            <div class="leaf">Day 25: Prepare for Interviews</div>
+        </div>
+        <div class="branch">
+            <div class="node" onclick="toggleLeaves(this)">Days 26-30: Consolidation, Reflection & Continued Outreach</div>
+            <div class="leaf">Day 26: Review and Adjust Your Strategy</div>
+            <div class="leaf">Day 27: Expand Your Networking</div>
+            <div class="leaf">Day 28: Finalize Applications for the Week</div>
+            <div class="leaf">Day 29: Prepare a “Status Report”</div>
+            <div class="leaf">Day 30: Celebrate Progress and Plan for the Next Phase</div>
+        </div>
+    </div>
+
+    <script>
+        function toggleLeaves(node) {
+            const leaves = node.parentElement.querySelectorAll('.leaf');
+            leaves.forEach(leaf => {
+                leaf.style.display = leaf.style.display === 'none' ? 'block' : 'none';
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,377 @@
+2025-01-29 19:32:46,696 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-01-29 19:32:50,878 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-01-29 19:32:52,895 - INFO - '2025' is already selected in dropdown 'selectedYear'
+2025-01-29 19:32:55,201 - WARNING - Retry 1 for dropdown 'None'
+2025-01-29 19:32:57,217 - WARNING - Retry 2 for dropdown 'None'
+2025-01-29 19:32:59,250 - ERROR - Error selecting 'Andaman & Nicobar Island(3)' from PrimeFaces dropdown 'None': Message: no such element: Unable to locate element: {"method":"css selector","selector":"#None_label"}
+  (Session info: chrome=132.0.6834.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B34502F5+28725]
+	(No symbol) [0x00007FF7B33B2AE0]
+	(No symbol) [0x00007FF7B324510A]
+	(No symbol) [0x00007FF7B32993D2]
+	(No symbol) [0x00007FF7B32995FC]
+	(No symbol) [0x00007FF7B32E3407]
+	(No symbol) [0x00007FF7B32BFFEF]
+	(No symbol) [0x00007FF7B32E0181]
+	(No symbol) [0x00007FF7B32BFD53]
+	(No symbol) [0x00007FF7B328A0E3]
+	(No symbol) [0x00007FF7B328B471]
+	GetHandleVerifier [0x00007FF7B377F30D+3366989]
+	GetHandleVerifier [0x00007FF7B37912F0+3440688]
+	GetHandleVerifier [0x00007FF7B37878FD+3401277]
+	GetHandleVerifier [0x00007FF7B351AAAB+858091]
+	(No symbol) [0x00007FF7B33BE74F]
+	(No symbol) [0x00007FF7B33BA304]
+	(No symbol) [0x00007FF7B33BA49D]
+	(No symbol) [0x00007FF7B33A8B69]
+	BaseThreadInitThunk [0x00007FFDF964E8D7+23]
+	RtlUserThreadStart [0x00007FFDFA29FBCC+44]
+
+2025-01-29 19:32:59,250 - ERROR - Error processing state Andaman & Nicobar Island(3): Failed to select state: Andaman & Nicobar Island(3)
+2025-01-29 19:32:59,250 - ERROR - Session error: Failed to process state: Andaman & Nicobar Island(3)
+2025-01-29 19:32:59,250 - INFO - Waiting 60 seconds before retrying...
+2025-01-29 19:38:14,384 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-01-29 19:38:18,539 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-01-29 19:38:20,579 - INFO - '2025' is already selected in dropdown 'selectedYear'
+2025-01-29 19:38:22,889 - WARNING - Retry 1 for dropdown 'None'
+2025-01-29 19:38:24,904 - WARNING - Retry 2 for dropdown 'None'
+2025-01-29 19:38:26,932 - ERROR - Error selecting 'Andaman & Nicobar Island(3)' from PrimeFaces dropdown 'None': Message: no such element: Unable to locate element: {"method":"css selector","selector":"#None_label"}
+  (Session info: chrome=132.0.6834.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B34502F5+28725]
+	(No symbol) [0x00007FF7B33B2AE0]
+	(No symbol) [0x00007FF7B324510A]
+	(No symbol) [0x00007FF7B32993D2]
+	(No symbol) [0x00007FF7B32995FC]
+	(No symbol) [0x00007FF7B32E3407]
+	(No symbol) [0x00007FF7B32BFFEF]
+	(No symbol) [0x00007FF7B32E0181]
+	(No symbol) [0x00007FF7B32BFD53]
+	(No symbol) [0x00007FF7B328A0E3]
+	(No symbol) [0x00007FF7B328B471]
+	GetHandleVerifier [0x00007FF7B377F30D+3366989]
+	GetHandleVerifier [0x00007FF7B37912F0+3440688]
+	GetHandleVerifier [0x00007FF7B37878FD+3401277]
+	GetHandleVerifier [0x00007FF7B351AAAB+858091]
+	(No symbol) [0x00007FF7B33BE74F]
+	(No symbol) [0x00007FF7B33BA304]
+	(No symbol) [0x00007FF7B33BA49D]
+	(No symbol) [0x00007FF7B33A8B69]
+	BaseThreadInitThunk [0x00007FFDF964E8D7+23]
+	RtlUserThreadStart [0x00007FFDFA29FBCC+44]
+
+2025-01-29 19:38:26,932 - ERROR - Error processing state Andaman & Nicobar Island(3): Failed to select state: Andaman & Nicobar Island(3)
+2025-01-29 19:38:26,932 - ERROR - Session error: Failed to process state: Andaman & Nicobar Island(3)
+2025-01-29 19:38:26,940 - INFO - Waiting 60 seconds before retrying...
+2025-01-30 13:33:16,662 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-01-30 13:33:20,845 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-01-30 13:33:22,899 - INFO - '2025' is already selected in dropdown 'selectedYear'
+2025-01-30 13:33:24,950 - ERROR - Error retrieving dynamic IDs: State dropdown ID not found
+2025-01-30 13:33:24,952 - ERROR - Error processing state Andaman & Nicobar Island(3): State dropdown ID not found
+2025-01-30 13:33:24,953 - ERROR - Session error: Failed to process state: Andaman & Nicobar Island(3)
+2025-01-30 13:33:24,960 - INFO - Waiting 60 seconds before retrying...
+2025-01-30 13:46:41,179 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-01-30 13:46:45,401 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-01-30 13:46:47,435 - INFO - '2025' is already selected in dropdown 'selectedYear'
+2025-01-30 13:46:49,497 - ERROR - Failed to locate elements: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=132.0.6834.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF624E402F5+28725]
+	(No symbol) [0x00007FF624DA2AE0]
+	(No symbol) [0x00007FF624C3510A]
+	(No symbol) [0x00007FF624C3BD70]
+	(No symbol) [0x00007FF624C3EABC]
+	(No symbol) [0x00007FF624C3EB8F]
+	(No symbol) [0x00007FF624C88C85]
+	(No symbol) [0x00007FF624C895FC]
+	(No symbol) [0x00007FF624CD3437]
+	(No symbol) [0x00007FF624CAFFEF]
+	(No symbol) [0x00007FF624CD0181]
+	(No symbol) [0x00007FF624CAFD53]
+	(No symbol) [0x00007FF624C7A0E3]
+	(No symbol) [0x00007FF624C7B471]
+	GetHandleVerifier [0x00007FF62516F30D+3366989]
+	GetHandleVerifier [0x00007FF6251812F0+3440688]
+	GetHandleVerifier [0x00007FF6251778FD+3401277]
+	GetHandleVerifier [0x00007FF624F0AAAB+858091]
+	(No symbol) [0x00007FF624DAE74F]
+	(No symbol) [0x00007FF624DAA304]
+	(No symbol) [0x00007FF624DAA49D]
+	(No symbol) [0x00007FF624D98B69]
+	BaseThreadInitThunk [0x00007FFDF964E8D7+23]
+	RtlUserThreadStart [0x00007FFDFA29FBCC+44]
+
+2025-01-30 13:46:49,502 - ERROR - Error processing state Andaman & Nicobar Island(3): Failed to locate required elements
+2025-01-30 13:46:49,504 - ERROR - Error in retry handling: 'VahanScraper' object has no attribute 'max_retries'
+2025-01-30 13:46:49,507 - ERROR - Session error: Failed to process state: Andaman & Nicobar Island(3)
+2025-01-30 13:46:49,510 - INFO - Waiting 60 seconds before retrying...
+2025-01-30 13:47:58,898 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-01-30 13:48:03,058 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-01-30 13:48:05,081 - INFO - '2025' is already selected in dropdown 'selectedYear'
+2025-01-30 13:48:07,174 - ERROR - Failed to locate elements: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=132.0.6834.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF624E402F5+28725]
+	(No symbol) [0x00007FF624DA2AE0]
+	(No symbol) [0x00007FF624C3510A]
+	(No symbol) [0x00007FF624C3BD70]
+	(No symbol) [0x00007FF624C3EABC]
+	(No symbol) [0x00007FF624C3EB8F]
+	(No symbol) [0x00007FF624C88C85]
+	(No symbol) [0x00007FF624C895FC]
+	(No symbol) [0x00007FF624CD3437]
+	(No symbol) [0x00007FF624CAFFEF]
+	(No symbol) [0x00007FF624CD0181]
+	(No symbol) [0x00007FF624CAFD53]
+	(No symbol) [0x00007FF624C7A0E3]
+	(No symbol) [0x00007FF624C7B471]
+	GetHandleVerifier [0x00007FF62516F30D+3366989]
+	GetHandleVerifier [0x00007FF6251812F0+3440688]
+	GetHandleVerifier [0x00007FF6251778FD+3401277]
+	GetHandleVerifier [0x00007FF624F0AAAB+858091]
+	(No symbol) [0x00007FF624DAE74F]
+	(No symbol) [0x00007FF624DAA304]
+	(No symbol) [0x00007FF624DAA49D]
+	(No symbol) [0x00007FF624D98B69]
+	BaseThreadInitThunk [0x00007FFDF964E8D7+23]
+	RtlUserThreadStart [0x00007FFDFA29FBCC+44]
+
+2025-01-30 13:48:07,174 - ERROR - Error processing state Andaman & Nicobar Island(3): Failed to locate required elements
+2025-01-30 13:48:07,174 - ERROR - Error in retry handling: 'VahanScraper' object has no attribute 'max_retries'
+2025-01-30 13:48:07,177 - ERROR - Session error: Failed to process state: Andaman & Nicobar Island(3)
+2025-01-30 13:48:07,179 - ERROR - Skipping state Andaman & Nicobar Island(3) after 3 failures
+2025-01-30 13:48:07,183 - INFO - Waiting 60 seconds before retrying...
+2025-01-30 13:51:51,073 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-01-30 13:51:55,241 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-01-30 13:51:57,271 - INFO - '2025' is already selected in dropdown 'selectedYear'
+2025-01-30 13:51:59,420 - INFO - Successfully located elements - State ID: None, Refresh ID: None, Excel ID: None
+2025-01-30 13:51:59,422 - ERROR - Error processing state Andaman & Nicobar Island(3): Failed to locate required elements
+2025-01-30 13:51:59,423 - INFO - Waiting 40 seconds before retrying...
+2025-01-30 13:54:36,307 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-01-30 13:54:40,464 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-01-30 13:54:42,490 - INFO - '2025' is already selected in dropdown 'selectedYear'
+2025-01-30 13:54:44,557 - INFO - Successfully located elements - State ID: None, Refresh ID: None, Excel ID: None
+2025-01-30 13:54:44,557 - ERROR - Error processing state Andaman & Nicobar Island(3): Failed to locate required elements
+2025-01-30 13:54:44,559 - INFO - Waiting 40 seconds before retrying...
+2025-01-30 13:55:24,561 - ERROR - Session error: Failed to process state: Andaman & Nicobar Island(3)
+2025-01-30 13:55:24,564 - INFO - Waiting 60 seconds before retrying...
+2025-01-30 13:56:35,259 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-01-30 13:59:33,834 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-01-30 13:59:37,987 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-01-30 13:59:40,043 - INFO - '2025' is already selected in dropdown 'selectedYear'
+2025-01-30 13:59:42,074 - ERROR - Failed to locate elements: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='State:']/following-sibling::div[contains(@class, 'ui-selectonemenu')]"}
+  (Session info: chrome=132.0.6834.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF624E402F5+28725]
+	(No symbol) [0x00007FF624DA2AE0]
+	(No symbol) [0x00007FF624C3510A]
+	(No symbol) [0x00007FF624C893D2]
+	(No symbol) [0x00007FF624C895FC]
+	(No symbol) [0x00007FF624CD3407]
+	(No symbol) [0x00007FF624CAFFEF]
+	(No symbol) [0x00007FF624CD0181]
+	(No symbol) [0x00007FF624CAFD53]
+	(No symbol) [0x00007FF624C7A0E3]
+	(No symbol) [0x00007FF624C7B471]
+	GetHandleVerifier [0x00007FF62516F30D+3366989]
+	GetHandleVerifier [0x00007FF6251812F0+3440688]
+	GetHandleVerifier [0x00007FF6251778FD+3401277]
+	GetHandleVerifier [0x00007FF624F0AAAB+858091]
+	(No symbol) [0x00007FF624DAE74F]
+	(No symbol) [0x00007FF624DAA304]
+	(No symbol) [0x00007FF624DAA49D]
+	(No symbol) [0x00007FF624D98B69]
+	BaseThreadInitThunk [0x00007FFDF964E8D7+23]
+	RtlUserThreadStart [0x00007FFDFA29FBCC+44]
+
+2025-01-30 13:59:42,078 - ERROR - Error processing state Andaman & Nicobar Island(3): Failed to locate required elements
+2025-01-30 13:59:42,078 - INFO - Waiting 40 seconds before retrying...
+2025-01-30 14:01:33,380 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-01-30 14:01:37,547 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-01-30 14:01:41,710 - INFO - Selected '2025' from dropdown 'selectedYear'
+2025-01-30 14:01:43,746 - ERROR - Failed to locate elements: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='State:']/following-sibling::div[contains(@class, 'ui-selectonemenu')]"}
+  (Session info: chrome=132.0.6834.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF624E402F5+28725]
+	(No symbol) [0x00007FF624DA2AE0]
+	(No symbol) [0x00007FF624C3510A]
+	(No symbol) [0x00007FF624C893D2]
+	(No symbol) [0x00007FF624C895FC]
+	(No symbol) [0x00007FF624CD3407]
+	(No symbol) [0x00007FF624CAFFEF]
+	(No symbol) [0x00007FF624CD0181]
+	(No symbol) [0x00007FF624CAFD53]
+	(No symbol) [0x00007FF624C7A0E3]
+	(No symbol) [0x00007FF624C7B471]
+	GetHandleVerifier [0x00007FF62516F30D+3366989]
+	GetHandleVerifier [0x00007FF6251812F0+3440688]
+	GetHandleVerifier [0x00007FF6251778FD+3401277]
+	GetHandleVerifier [0x00007FF624F0AAAB+858091]
+	(No symbol) [0x00007FF624DAE74F]
+	(No symbol) [0x00007FF624DAA304]
+	(No symbol) [0x00007FF624DAA49D]
+	(No symbol) [0x00007FF624D98B69]
+	BaseThreadInitThunk [0x00007FFDF964E8D7+23]
+	RtlUserThreadStart [0x00007FFDFA29FBCC+44]
+
+2025-01-30 14:01:43,746 - ERROR - Error processing state Andaman & Nicobar Island(3): Failed to locate required elements
+2025-01-30 14:01:43,750 - INFO - Waiting 40 seconds before retrying...
+2025-01-30 14:02:23,751 - ERROR - Session error: Failed to process state: Andaman & Nicobar Island(3)
+2025-01-30 14:02:23,754 - INFO - Waiting 60 seconds before retrying...
+2025-02-03 17:51:54,535 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 17:51:58,666 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 17:52:02,850 - INFO - Selected '2025' from dropdown 'selectedYear'
+2025-02-03 17:52:04,897 - ERROR - Failed to locate elements: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='State:']/following-sibling::div[contains(@class, 'ui-selectonemenu')]"}
+  (Session info: chrome=132.0.6834.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6649B02F5+28725]
+	(No symbol) [0x00007FF664912AE0]
+	(No symbol) [0x00007FF6647A510A]
+	(No symbol) [0x00007FF6647F93D2]
+	(No symbol) [0x00007FF6647F95FC]
+	(No symbol) [0x00007FF664843407]
+	(No symbol) [0x00007FF66481FFEF]
+	(No symbol) [0x00007FF664840181]
+	(No symbol) [0x00007FF66481FD53]
+	(No symbol) [0x00007FF6647EA0E3]
+	(No symbol) [0x00007FF6647EB471]
+	GetHandleVerifier [0x00007FF664CDF30D+3366989]
+	GetHandleVerifier [0x00007FF664CF12F0+3440688]
+	GetHandleVerifier [0x00007FF664CE78FD+3401277]
+	GetHandleVerifier [0x00007FF664A7AAAB+858091]
+	(No symbol) [0x00007FF66491E74F]
+	(No symbol) [0x00007FF66491A304]
+	(No symbol) [0x00007FF66491A49D]
+	(No symbol) [0x00007FF664908B69]
+	BaseThreadInitThunk [0x00007FFD247DE8D7+23]
+	RtlUserThreadStart [0x00007FFD24E1BF2C+44]
+
+2025-02-03 17:52:04,899 - ERROR - Error processing state Andaman & Nicobar Island(3): Failed to locate required elements
+2025-02-03 17:52:04,903 - INFO - Waiting 40 seconds before retrying...
+2025-02-03 17:54:20,717 - CRITICAL - Fatal error during initial ID retrieval: 'VahanScraper' object has no attribute 'setup_driver'
+2025-02-03 18:12:25,981 - WARNING - Retry 1 for dropdown 'xaxisVar'
+2025-02-03 18:12:30,271 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 18:12:34,532 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 18:12:38,728 - INFO - Selected '2024' from dropdown 'selectedYear'
+2025-02-03 18:12:40,754 - WARNING - Retry 1 for dropdown 'j_idt34'
+2025-02-03 18:12:42,783 - WARNING - Retry 2 for dropdown 'j_idt34'
+2025-02-03 18:12:44,871 - ERROR - Error selecting 'Andaman & Nicobar Island(3)' from PrimeFaces dropdown 'j_idt34': Message: no such element: Unable to locate element: {"method":"css selector","selector":"#j_idt34_label"}
+  (Session info: chrome=132.0.6834.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6649B02F5+28725]
+	(No symbol) [0x00007FF664912AE0]
+	(No symbol) [0x00007FF6647A510A]
+	(No symbol) [0x00007FF6647F93D2]
+	(No symbol) [0x00007FF6647F95FC]
+	(No symbol) [0x00007FF664843407]
+	(No symbol) [0x00007FF66481FFEF]
+	(No symbol) [0x00007FF664840181]
+	(No symbol) [0x00007FF66481FD53]
+	(No symbol) [0x00007FF6647EA0E3]
+	(No symbol) [0x00007FF6647EB471]
+	GetHandleVerifier [0x00007FF664CDF30D+3366989]
+	GetHandleVerifier [0x00007FF664CF12F0+3440688]
+	GetHandleVerifier [0x00007FF664CE78FD+3401277]
+	GetHandleVerifier [0x00007FF664A7AAAB+858091]
+	(No symbol) [0x00007FF66491E74F]
+	(No symbol) [0x00007FF66491A304]
+	(No symbol) [0x00007FF66491A49D]
+	(No symbol) [0x00007FF664908B69]
+	BaseThreadInitThunk [0x00007FFD247DE8D7+23]
+	RtlUserThreadStart [0x00007FFD24E1BF2C+44]
+
+2025-02-03 18:12:44,874 - ERROR - Error processing state Andaman & Nicobar Island(3): Failed to select state: Andaman & Nicobar Island(3)
+2025-02-03 18:12:44,875 - ERROR - Session error for state Andaman & Nicobar Island(3): Failed to process state: Andaman & Nicobar Island(3) or some RTOs within it
+2025-02-03 18:12:44,877 - WARNING - Retrying state Andaman & Nicobar Island(3) (Retry count: 1/3)
+2025-02-03 18:12:44,882 - INFO - Waiting 60 seconds before retrying...
+2025-02-03 18:19:33,504 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 18:19:37,720 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 18:19:41,916 - INFO - Selected '2024' from dropdown 'selectedYear'
+2025-02-03 18:19:46,136 - INFO - Selected 'Andaman & Nicobar Island(3)' from dropdown 'j_idt36'
+2025-02-03 18:19:49,446 - INFO - Found RTOs for Andaman & Nicobar Island(3): ['All Vahan4 Running Office(4/4)', 'Baratang - AN201( 29-NOV-2024 )', 'Campbell Bay - AN212( 18-FEB-2022 )', 'Car Nicobar - AN211( 23-FEB-2023 )', 'Diglipur - AN204( 09-NOV-2021 )', 'Ferrargunj - AN200( 12-OCT-2021 )', 'Mayabunder - AN203( 09-NOV-2021 )', 'Port Blair DTO - AN1( 15-AUG-2020 )', 'Rangat - AN202( 17-NOV-2021 )', 'Swaraj Dweep - AN206( 29-NOV-2021 )']
+2025-02-03 18:19:49,447 - INFO - Processing RTO: 'Baratang - AN201( 29-NOV-2024 )' in state 'Andaman & Nicobar Island(3)'
+2025-02-03 18:20:20,904 - ERROR - Error processing RTO 'Baratang - AN201( 29-NOV-2024 )' in state Andaman & Nicobar Island(3): Message: 
+
+2025-02-03 18:20:20,905 - ERROR - Session error for state Andaman & Nicobar Island(3): Failed to process state: Andaman & Nicobar Island(3) or some RTOs within it
+2025-02-03 18:20:20,906 - WARNING - Retrying state Andaman & Nicobar Island(3) (Retry count: 1/3)
+2025-02-03 18:20:20,912 - INFO - Waiting 60 seconds before retrying...
+2025-02-03 18:21:02,968 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 18:21:07,160 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 18:21:11,316 - INFO - Selected '2024' from dropdown 'selectedYear'
+2025-02-03 18:21:15,506 - INFO - Selected 'Andaman & Nicobar Island(3)' from dropdown 'j_idt36'
+2025-02-03 18:21:18,755 - INFO - Found RTOs for Andaman & Nicobar Island(3): ['All Vahan4 Running Office(4/4)', 'Baratang - AN201( 29-NOV-2024 )', 'Campbell Bay - AN212( 18-FEB-2022 )', 'Car Nicobar - AN211( 23-FEB-2023 )', 'Diglipur - AN204( 09-NOV-2021 )', 'Ferrargunj - AN200( 12-OCT-2021 )', 'Mayabunder - AN203( 09-NOV-2021 )', 'Port Blair DTO - AN1( 15-AUG-2020 )', 'Rangat - AN202( 17-NOV-2021 )', 'Swaraj Dweep - AN206( 29-NOV-2021 )']
+2025-02-03 18:21:18,756 - INFO - Processing RTO: 'Baratang - AN201( 29-NOV-2024 )' in state 'Andaman & Nicobar Island(3)'
+2025-02-03 18:22:00,588 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 18:22:04,745 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 18:22:08,933 - INFO - Selected '2024' from dropdown 'selectedYear'
+2025-02-03 18:22:13,084 - INFO - Selected 'Andaman & Nicobar Island(3)' from dropdown 'j_idt36'
+2025-02-03 18:22:16,334 - INFO - Found RTOs for Andaman & Nicobar Island(3): ['All Vahan4 Running Office(4/4)', 'Baratang - AN201( 29-NOV-2024 )', 'Campbell Bay - AN212( 18-FEB-2022 )', 'Car Nicobar - AN211( 23-FEB-2023 )', 'Diglipur - AN204( 09-NOV-2021 )', 'Ferrargunj - AN200( 12-OCT-2021 )', 'Mayabunder - AN203( 09-NOV-2021 )', 'Port Blair DTO - AN1( 15-AUG-2020 )', 'Rangat - AN202( 17-NOV-2021 )', 'Swaraj Dweep - AN206( 29-NOV-2021 )']
+2025-02-03 18:22:16,337 - INFO - Processing RTO: 'Baratang - AN201( 29-NOV-2024 )' in state 'Andaman & Nicobar Island(3)'
+2025-02-03 18:22:47,784 - ERROR - Error processing RTO 'Baratang - AN201( 29-NOV-2024 )' in state Andaman & Nicobar Island(3): Message: 
+
+2025-02-03 18:22:47,786 - ERROR - Session error for state Andaman & Nicobar Island(3): Failed to process state: Andaman & Nicobar Island(3) or some RTOs within it
+2025-02-03 18:22:47,787 - WARNING - Retrying state Andaman & Nicobar Island(3) (Retry count: 1/3)
+2025-02-03 18:22:47,792 - INFO - Waiting 60 seconds before retrying...
+2025-02-03 18:23:23,430 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 18:23:27,643 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 18:23:31,831 - INFO - Selected '2024' from dropdown 'selectedYear'
+2025-02-03 18:23:36,017 - INFO - Selected 'Andaman & Nicobar Island(3)' from dropdown 'j_idt36'
+2025-02-03 18:23:39,240 - INFO - Found RTOs for Andaman & Nicobar Island(3): ['All Vahan4 Running Office(4/4)', 'Baratang - AN201( 29-NOV-2024 )', 'Campbell Bay - AN212( 18-FEB-2022 )', 'Car Nicobar - AN211( 23-FEB-2023 )', 'Diglipur - AN204( 09-NOV-2021 )', 'Ferrargunj - AN200( 12-OCT-2021 )', 'Mayabunder - AN203( 09-NOV-2021 )', 'Port Blair DTO - AN1( 15-AUG-2020 )', 'Rangat - AN202( 17-NOV-2021 )', 'Swaraj Dweep - AN206( 29-NOV-2021 )']
+2025-02-03 18:23:39,242 - INFO - Processing RTO: 'Baratang - AN201( 29-NOV-2024 )' in state 'Andaman & Nicobar Island(3)'
+2025-02-03 18:24:10,642 - ERROR - Error processing RTO 'Baratang - AN201( 29-NOV-2024 )' in state Andaman & Nicobar Island(3): Message: 
+
+2025-02-03 18:24:10,644 - ERROR - Session error for state Andaman & Nicobar Island(3): Failed to process state: Andaman & Nicobar Island(3) or some RTOs within it
+2025-02-03 18:24:10,645 - WARNING - Retrying state Andaman & Nicobar Island(3) (Retry count: 1/3)
+2025-02-03 18:24:10,647 - INFO - Waiting 60 seconds before retrying...
+2025-02-03 18:24:54,891 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 18:24:59,044 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 18:25:03,239 - INFO - Selected '2024' from dropdown 'selectedYear'
+2025-02-03 18:25:07,445 - INFO - Selected 'Andaman & Nicobar Island(3)' from dropdown 'j_idt36'
+2025-02-03 18:25:10,711 - INFO - Found RTOs for Andaman & Nicobar Island(3): ['All Vahan4 Running Office(4/4)', 'Baratang - AN201( 29-NOV-2024 )', 'Campbell Bay - AN212( 18-FEB-2022 )', 'Car Nicobar - AN211( 23-FEB-2023 )', 'Diglipur - AN204( 09-NOV-2021 )', 'Ferrargunj - AN200( 12-OCT-2021 )', 'Mayabunder - AN203( 09-NOV-2021 )', 'Port Blair DTO - AN1( 15-AUG-2020 )', 'Rangat - AN202( 17-NOV-2021 )', 'Swaraj Dweep - AN206( 29-NOV-2021 )']
+2025-02-03 18:25:10,712 - INFO - Processing RTO: 'Baratang - AN201( 29-NOV-2024 )' in state 'Andaman & Nicobar Island(3)'
+2025-02-03 18:26:05,407 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 18:26:09,570 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 18:26:13,750 - INFO - Selected '2024' from dropdown 'selectedYear'
+2025-02-03 18:26:17,932 - INFO - Selected 'Andaman & Nicobar Island(3)' from dropdown 'j_idt36'
+2025-02-03 18:26:21,190 - INFO - Found RTOs for Andaman & Nicobar Island(3): ['All Vahan4 Running Office(4/4)', 'Baratang - AN201( 29-NOV-2024 )', 'Campbell Bay - AN212( 18-FEB-2022 )', 'Car Nicobar - AN211( 23-FEB-2023 )', 'Diglipur - AN204( 09-NOV-2021 )', 'Ferrargunj - AN200( 12-OCT-2021 )', 'Mayabunder - AN203( 09-NOV-2021 )', 'Port Blair DTO - AN1( 15-AUG-2020 )', 'Rangat - AN202( 17-NOV-2021 )', 'Swaraj Dweep - AN206( 29-NOV-2021 )']
+2025-02-03 18:26:21,191 - INFO - Processing RTO: 'Baratang - AN201( 29-NOV-2024 )' in state 'Andaman & Nicobar Island(3)'
+2025-02-03 18:26:52,398 - ERROR - Error processing RTO 'Baratang - AN201( 29-NOV-2024 )' in state Andaman & Nicobar Island(3): Message: 
+
+2025-02-03 18:26:52,399 - ERROR - Session error for state Andaman & Nicobar Island(3): Failed to process state: Andaman & Nicobar Island(3) or some RTOs within it
+2025-02-03 18:26:52,401 - WARNING - Retrying state Andaman & Nicobar Island(3) (Retry count: 1/3)
+2025-02-03 18:26:52,403 - INFO - Waiting 60 seconds before retrying...
+2025-02-03 18:33:38,077 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 18:33:42,209 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 18:33:46,398 - INFO - Selected '2024' from dropdown 'selectedYear'
+2025-02-03 18:33:50,591 - INFO - Selected 'Andaman & Nicobar Island(3)' from dropdown 'j_idt36'
+2025-02-03 18:33:53,877 - INFO - Found RTOs for Andaman & Nicobar Island(3): ['All Vahan4 Running Office(4/4)', 'Baratang - AN201( 29-NOV-2024 )', 'Campbell Bay - AN212( 18-FEB-2022 )', 'Car Nicobar - AN211( 23-FEB-2023 )', 'Diglipur - AN204( 09-NOV-2021 )', 'Ferrargunj - AN200( 12-OCT-2021 )', 'Mayabunder - AN203( 09-NOV-2021 )', 'Port Blair DTO - AN1( 15-AUG-2020 )', 'Rangat - AN202( 17-NOV-2021 )', 'Swaraj Dweep - AN206( 29-NOV-2021 )']
+2025-02-03 18:33:53,878 - INFO - Processing RTO: 'Baratang - AN201( 29-NOV-2024 )' in state 'Andaman & Nicobar Island(3)'
+2025-02-03 18:35:55,274 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 18:35:59,478 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 18:36:03,674 - INFO - Selected '2024' from dropdown 'selectedYear'
+2025-02-03 18:36:07,855 - INFO - Selected 'Andaman & Nicobar Island(3)' from dropdown 'j_idt36'
+2025-02-03 18:36:11,034 - INFO - Found RTOs for Andaman & Nicobar Island(3): ['All Vahan4 Running Office(4/4)', 'Baratang - AN201( 29-NOV-2024 )', 'Campbell Bay - AN212( 18-FEB-2022 )', 'Car Nicobar - AN211( 23-FEB-2023 )', 'Diglipur - AN204( 09-NOV-2021 )', 'Ferrargunj - AN200( 12-OCT-2021 )', 'Mayabunder - AN203( 09-NOV-2021 )', 'Port Blair DTO - AN1( 15-AUG-2020 )', 'Rangat - AN202( 17-NOV-2021 )', 'Swaraj Dweep - AN206( 29-NOV-2021 )']
+2025-02-03 18:36:11,035 - INFO - Processing RTO: 'Baratang - AN201( 29-NOV-2024 )' in state 'Andaman & Nicobar Island(3)'
+2025-02-03 18:36:42,122 - ERROR - Error processing RTO 'Baratang - AN201( 29-NOV-2024 )' in state Andaman & Nicobar Island(3): Message: 
+
+2025-02-03 18:36:42,123 - ERROR - Session error for state Andaman & Nicobar Island(3): Failed to process state: Andaman & Nicobar Island(3) or some RTOs within it
+2025-02-03 18:36:42,125 - WARNING - Retrying state Andaman & Nicobar Island(3) (Retry count: 1/3)
+2025-02-03 18:36:42,129 - INFO - Waiting 60 seconds before retrying...
+2025-02-03 18:37:52,964 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 18:37:57,130 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 18:38:01,302 - INFO - Selected '2024' from dropdown 'selectedYear'
+2025-02-03 18:38:05,446 - INFO - Selected 'Andaman & Nicobar Island(3)' from dropdown 'j_idt36'
+2025-02-03 18:38:08,690 - INFO - Found RTOs for Andaman & Nicobar Island(3): ['All Vahan4 Running Office(4/4)', 'Baratang - AN201( 29-NOV-2024 )', 'Campbell Bay - AN212( 18-FEB-2022 )', 'Car Nicobar - AN211( 23-FEB-2023 )', 'Diglipur - AN204( 09-NOV-2021 )', 'Ferrargunj - AN200( 12-OCT-2021 )', 'Mayabunder - AN203( 09-NOV-2021 )', 'Port Blair DTO - AN1( 15-AUG-2020 )', 'Rangat - AN202( 17-NOV-2021 )', 'Swaraj Dweep - AN206( 29-NOV-2021 )']
+2025-02-03 18:38:08,694 - INFO - Processing RTO: 'Baratang - AN201( 29-NOV-2024 )' in state 'Andaman & Nicobar Island(3)'
+2025-02-03 18:38:31,623 - INFO - Selected 'Month Wise' from dropdown 'xaxisVar'
+2025-02-03 18:38:35,749 - INFO - Selected 'Maker' from dropdown 'yaxisVar'
+2025-02-03 18:38:39,981 - INFO - Selected '2024' from dropdown 'selectedYear'
+2025-02-03 18:38:44,166 - INFO - Selected 'Andaman & Nicobar Island(3)' from dropdown 'j_idt36'
+2025-02-03 18:38:47,414 - INFO - Found RTOs for Andaman & Nicobar Island(3): ['All Vahan4 Running Office(4/4)', 'Baratang - AN201( 29-NOV-2024 )', 'Campbell Bay - AN212( 18-FEB-2022 )', 'Car Nicobar - AN211( 23-FEB-2023 )', 'Diglipur - AN204( 09-NOV-2021 )', 'Ferrargunj - AN200( 12-OCT-2021 )', 'Mayabunder - AN203( 09-NOV-2021 )', 'Port Blair DTO - AN1( 15-AUG-2020 )', 'Rangat - AN202( 17-NOV-2021 )', 'Swaraj Dweep - AN206( 29-NOV-2021 )']
+2025-02-03 18:38:47,415 - INFO - Processing RTO: 'Baratang - AN201( 29-NOV-2024 )' in state 'Andaman & Nicobar Island(3)'
+2025-02-03 18:39:18,482 - ERROR - Error processing RTO 'Baratang - AN201( 29-NOV-2024 )' in state Andaman & Nicobar Island(3): Message: 
+
+2025-02-03 18:39:18,483 - ERROR - Session error for state Andaman & Nicobar Island(3): Failed to process state: Andaman & Nicobar Island(3) or some RTOs within it
+2025-02-03 18:39:18,483 - WARNING - Retrying state Andaman & Nicobar Island(3) (Retry count: 1/3)
+2025-02-03 18:39:18,484 - INFO - Waiting 60 seconds before retrying...
