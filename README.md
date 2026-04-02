@@ -2,7 +2,6 @@ Okay, acting as a Business Analyst, here is a process flow document for the auto
 
 This document outlines the business process flow, inputs, outputs, and steps involved in using the Python script to manage your email campaign.
 
----
 
 ## Automated Email Outreach & Reporting Process Flow
 
@@ -13,7 +12,6 @@ This document outlines the business process flow, inputs, outputs, and steps inv
 *   **Date:** 2023-10-27
 *   **Author:** [Your Name/Business Analyst]
 
----
 
 **1. Introduction**
 
@@ -189,6 +187,5 @@ graph TD
 *   Implement a simple command-line interface for starting/stopping or viewing basic status.
 *   Add a feature to handle recipients marked with a specific status (e.g., 'Exclude', 'Bounce').
 
----
 
 This document provides a structured overview of the business process driven by your Python code. It clarifies the inputs, outputs, steps, and assumptions for stakeholders involved in managing or understanding this automated outreach campaign.
