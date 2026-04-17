@@ -1,5 +1,4 @@
-Okay, acting as a Business Analyst, here is a process flow document for the automated email outreach and reporting system you've described.
-
+The process flow document for the automated email outreach and reporting system you've described.
 This document outlines the business process flow, inputs, outputs, and steps involved in using the Python script to manage your email campaign.
 
 
@@ -81,24 +80,25 @@ The primary purpose of this process is to:
 **7. Process Flow Diagram (Conceptual Description)**
 
 ```mermaid
-graph TD
-    A[Start Process] --> B(Initialize & Load Config);
-    B --> C[Load Recipient Data from Excel];
-    C --> D{Identify Pending Recipients};
-    D --> |None Found| K[Send Final Report & Stop];
-    D --> |Pending Found| E(Loop: Process Pending Recipients);
+flowchart TD
+    A[Start Process] --> B[Initialize & Load Config]
+    B --> C[Load Recipient Data from Excel]
+    C --> D{Identify Pending Recipients}
 
-    E --> F(Wait Random Interval);
-    F --> G{Select Next Pending Recipient};
-    G --> H[Prepare Personalized Email];
-    H --> I[Send Email];
-    I --> J[Update Status in Memory & Excel File];
+    D -- None Found --> K[Send Final Report & Stop]
+    D -- Pending Found --> E[Process Pending Recipients]
 
-    J --> L{Check if End of Day};
-    L --> |No| D; // Go back to identify pending (loop continues)
-    L --> |Yes| M[Generate Daily Report];
-    M --> N[Send Daily Report Email];
-    N --> D; // After report, continue processing pending or check if done
+    E --> F[Wait Random Interval]
+    F --> G{Select Next Pending Recipient}
+    G --> H[Prepare Personalized Email]
+    H --> I[Send Email]
+    I --> J[Update Status in Memory & Excel]
+
+    J --> L{End of Day?}
+    L -- No --> D
+    L -- Yes --> M[Generate Daily Report]
+    M --> N[Send Daily Report Email]
+    N --> D
 ```
 
 **8. Detailed Process Steps**
